@@ -1,0 +1,501 @@
+Student Name,Department,Event Name,Event Type,Event Rating,Would Attend Again,Liked Most,What Can Be Improved,Overall Feedback
+Aarav,CE,Tech Fest,Guest Lecture,2,Yes,Fun activities,Add Q&A,Too technical for beginners.
+Aarav,ME,AI Workshop,Guest Lecture,1,Yes,Nice presentation,Better examples,Really enjoyed the session!
+Raj,CSE,Coding Bootcamp,Cultural,3,No,Easy to follow,More breaks,Loved the vibe!
+Kunal,CE,Coding Bootcamp,Cultural,3,No,Helpful content,Clarity issues,Would attend again!
+Ananya,CSE,Robotics Seminar,Guest Lecture,1,No,Great venue,Better examples,Would attend again!
+Rohan,BT,AI Workshop,Seminar,5,No,Clear explanations,More seating,Helpful overall.
+Ananya,EEE,DataViz Talk,Cultural,5,Yes,Good speaker,Clarity issues,Well organized and useful.
+Kunal,EEE,DataViz Talk,Guest Lecture,4,No,Helpful content,Add Q&A,Well organized and useful.
+Ishaan,ME,Robotics Seminar,Guest Lecture,3,No,Nice presentation,Need better timing,Well organized and useful.
+Meera,CE,DataViz Talk,Cultural,3,No,Clear explanations,Poor audio,Needs better management.
+Sneha,BT,Coding Bootcamp,Cultural,5,Yes,Easy to follow,Need better timing,Average session.
+Aarav,CSE,DataViz Talk,Seminar,3,Yes,Very interactive and hands-on,More breaks,Could be improved.
+Ananya,EEE,AI Workshop,Guest Lecture,1,No,Helpful content,Poor audio,Loved the vibe!
+Diya,BT,AI Workshop,Workshop,4,No,Good team tasks,Poor audio,Too technical for beginners.
+Diya,CSE,Coding Bootcamp,Guest Lecture,5,Yes,Nice presentation,More breaks,Really enjoyed the session!
+Kunal,BT,Tech Fest,Workshop,2,Yes,Engaging session,Too long,Helpful overall.
+Ishaan,ME,DataViz Talk,Guest Lecture,2,No,Good speaker,More breaks,Could be improved.
+Sneha,ME,Tech Fest,Cultural,5,Yes,Good team tasks,Add Q&A,Would attend again!
+Diya,CE,DataViz Talk,Guest Lecture,5,No,Good speaker,More seating,Loved the vibe!
+Ishaan,ME,Robotics Seminar,Workshop,4,Yes,Good speaker,More seating,Too technical for beginners.
+Rohan,ECE,Coding Bootcamp,Seminar,5,No,Clear explanations,Technical issues,Would attend again!
+Kunal,CSE,Tech Fest,Workshop,1,Yes,Engaging session,Clarity issues,Really enjoyed the session!
+Kunal,BT,Robotics Seminar,Guest Lecture,3,Yes,Engaging session,Better examples,Could be improved.
+Kunal,EEE,Robotics Seminar,Cultural,4,Yes,Good team tasks,Better examples,Needs better management.
+Meera,CSE,AI Workshop,Workshop,5,No,Helpful content,More seating,Too technical for beginners.
+Aarav,BT,Tech Fest,Seminar,3,No,Very interactive and hands-on,Need better timing,Needs better management.
+Ananya,ME,Robotics Seminar,Cultural,3,Yes,Great venue,More seating,Could be improved.
+Tanya,ECE,Coding Bootcamp,Workshop,1,Yes,Great venue,More seating,Needs better management.
+Diya,ME,Robotics Seminar,Cultural,3,No,Clear explanations,Too long,Would attend again!
+Raj,BT,Coding Bootcamp,Cultural,2,No,Helpful content,Poor audio,Too technical for beginners.
+Sneha,BT,AI Workshop,Cultural,5,No,Good team tasks,Add Q&A,Impressive!
+Ishaan,CSE,DataViz Talk,Guest Lecture,3,Yes,Engaging session,Clarity issues,Needs better management.
+Diya,ME,Robotics Seminar,Guest Lecture,2,No,Nice presentation,Better examples,Would attend again!
+Ishaan,ECE,Robotics Seminar,Workshop,2,Yes,Nice presentation,Poor audio,Could be improved.
+Rohan,ECE,Tech Fest,Workshop,3,Yes,Good speaker,Add Q&A,Impressive!
+Ananya,ECE,Tech Fest,Workshop,1,Yes,Very interactive and hands-on,Started late,Well organized and useful.
+Raj,BT,Robotics Seminar,Cultural,2,No,Good team tasks,Technical issues,Too technical for beginners.
+Aarav,BT,DataViz Talk,Seminar,2,No,Good team tasks,Started late,Average session.
+Ishaan,ME,Tech Fest,Guest Lecture,5,Yes,Fun activities,Better examples,Loved the vibe!
+Kunal,CSE,AI Workshop,Seminar,5,Yes,Clear explanations,Need better timing,Impressive!
+Sneha,CE,Tech Fest,Workshop,5,Yes,Helpful content,Clarity issues,Average session.
+Kunal,CSE,Tech Fest,Guest Lecture,3,Yes,Clear explanations,Better examples,Well organized and useful.
+Sneha,BT,AI Workshop,Guest Lecture,4,Yes,Helpful content,Add Q&A,Loved the vibe!
+Tanya,BT,AI Workshop,Workshop,5,Yes,Great venue,More breaks,Impressive!
+Rohan,CE,Robotics Seminar,Workshop,2,Yes,Clear explanations,Need better timing,Would attend again!
+Aarav,BT,AI Workshop,Seminar,4,No,Very interactive and hands-on,More breaks,Impressive!
+Sneha,ECE,DataViz Talk,Seminar,1,No,Clear explanations,Clarity issues,Average session.
+Aarav,CSE,AI Workshop,Workshop,1,No,Easy to follow,Clarity issues,Really enjoyed the session!
+Diya,ECE,Tech Fest,Guest Lecture,1,Yes,Good team tasks,Need better timing,Average session.
+Ananya,CE,Coding Bootcamp,Guest Lecture,2,Yes,Easy to follow,Too long,Well organized and useful.
+Sneha,CE,Tech Fest,Cultural,2,Yes,Fun activities,Technical issues,Too technical for beginners.
+Sneha,EEE,Tech Fest,Cultural,1,No,Helpful content,Add Q&A,Really enjoyed the session!
+Tanya,BT,Robotics Seminar,Cultural,5,Yes,Fun activities,Need better timing,Average session.
+Ananya,CSE,Tech Fest,Workshop,3,No,Very interactive and hands-on,Better examples,Loved the vibe!
+Sneha,CSE,AI Workshop,Seminar,2,No,Good speaker,Better examples,Average session.
+Sneha,EEE,Robotics Seminar,Workshop,2,No,Nice presentation,Technical issues,Average session.
+Raj,CSE,Coding Bootcamp,Seminar,2,Yes,Clear explanations,Clarity issues,Too technical for beginners.
+Tanya,BT,Coding Bootcamp,Workshop,2,No,Good team tasks,Need better timing,Too technical for beginners.
+Kunal,ECE,AI Workshop,Cultural,3,No,Good team tasks,Started late,Needs better management.
+Sneha,CE,DataViz Talk,Workshop,3,Yes,Great venue,More breaks,Well organized and useful.
+Diya,BT,Coding Bootcamp,Workshop,1,No,Clear explanations,Started late,Needs better management.
+Diya,ECE,DataViz Talk,Seminar,3,Yes,Nice presentation,Need better timing,Needs better management.
+Meera,ECE,Tech Fest,Seminar,4,Yes,Helpful content,Too long,Helpful overall.
+Tanya,BT,DataViz Talk,Cultural,3,Yes,Clear explanations,Better examples,Helpful overall.
+Tanya,ECE,Robotics Seminar,Workshop,2,Yes,Easy to follow,Started late,Average session.
+Diya,EEE,DataViz Talk,Seminar,3,No,Good team tasks,Started late,Average session.
+Sneha,CE,Coding Bootcamp,Seminar,5,No,Fun activities,Better examples,Too technical for beginners.
+Tanya,EEE,Coding Bootcamp,Cultural,5,Yes,Engaging session,Too long,Loved the vibe!
+Aarav,CE,DataViz Talk,Cultural,5,No,Clear explanations,Technical issues,Average session.
+Rohan,ME,AI Workshop,Seminar,3,Yes,Easy to follow,Too long,Loved the vibe!
+Tanya,CE,Coding Bootcamp,Workshop,2,Yes,Great venue,Need better timing,Too technical for beginners.
+Meera,CE,Coding Bootcamp,Workshop,5,Yes,Engaging session,Too long,Too technical for beginners.
+Diya,EEE,AI Workshop,Seminar,3,No,Good speaker,More seating,Impressive!
+Ananya,CE,Coding Bootcamp,Seminar,1,No,Good speaker,More breaks,Too technical for beginners.
+Sneha,ME,Robotics Seminar,Seminar,3,Yes,Nice presentation,Too long,Really enjoyed the session!
+Rohan,EEE,AI Workshop,Seminar,3,Yes,Engaging session,Technical issues,Impressive!
+Rohan,BT,Tech Fest,Workshop,4,Yes,Good speaker,Technical issues,Really enjoyed the session!
+Rohan,CE,Tech Fest,Cultural,1,Yes,Fun activities,More breaks,Well organized and useful.
+Sneha,EEE,Robotics Seminar,Workshop,3,Yes,Clear explanations,More breaks,Helpful overall.
+Diya,ME,DataViz Talk,Seminar,5,Yes,Easy to follow,Started late,Needs better management.
+Raj,ME,DataViz Talk,Workshop,1,No,Great venue,Need better timing,Helpful overall.
+Sneha,ECE,AI Workshop,Workshop,3,Yes,Clear explanations,More breaks,Loved the vibe!
+Raj,ECE,AI Workshop,Workshop,5,Yes,Helpful content,Better examples,Needs better management.
+Meera,BT,Robotics Seminar,Guest Lecture,3,Yes,Great venue,Need better timing,Well organized and useful.
+Raj,CE,Coding Bootcamp,Cultural,1,No,Clear explanations,Clarity issues,Would attend again!
+Diya,CE,Coding Bootcamp,Guest Lecture,3,No,Very interactive and hands-on,Poor audio,Helpful overall.
+Ishaan,CE,Coding Bootcamp,Workshop,3,No,Nice presentation,Need better timing,Average session.
+Raj,BT,DataViz Talk,Seminar,1,Yes,Good team tasks,More seating,Well organized and useful.
+Rohan,ECE,DataViz Talk,Seminar,1,Yes,Great venue,Need better timing,Loved the vibe!
+Sneha,ECE,AI Workshop,Guest Lecture,1,Yes,Great venue,Technical issues,Impressive!
+Tanya,BT,DataViz Talk,Seminar,5,No,Great venue,Clarity issues,Well organized and useful.
+Ishaan,CSE,Tech Fest,Workshop,5,Yes,Great venue,Too long,Needs better management.
+Aarav,ECE,Robotics Seminar,Cultural,3,No,Good team tasks,Started late,Really enjoyed the session!
+Raj,BT,Coding Bootcamp,Guest Lecture,5,Yes,Fun activities,More seating,Average session.
+Aarav,ECE,Coding Bootcamp,Cultural,2,Yes,Engaging session,Poor audio,Needs better management.
+Raj,ECE,AI Workshop,Seminar,4,Yes,Engaging session,Technical issues,Really enjoyed the session!
+Ananya,ME,Tech Fest,Cultural,1,No,Nice presentation,Clarity issues,Too technical for beginners.
+Raj,CSE,DataViz Talk,Cultural,3,No,Great venue,More seating,Well organized and useful.
+Rohan,BT,Coding Bootcamp,Cultural,3,Yes,Helpful content,More seating,Helpful overall.
+Raj,ECE,Tech Fest,Workshop,5,No,Good speaker,Technical issues,Well organized and useful.
+Diya,ME,AI Workshop,Cultural,5,No,Nice presentation,Started late,Average session.
+Meera,CE,Coding Bootcamp,Workshop,5,Yes,Clear explanations,Too long,Too technical for beginners.
+Aarav,BT,Coding Bootcamp,Workshop,1,Yes,Fun activities,More breaks,Well organized and useful.
+Sneha,CE,Tech Fest,Workshop,3,No,Easy to follow,Add Q&A,Really enjoyed the session!
+Rohan,EEE,Robotics Seminar,Cultural,2,No,Good speaker,More seating,Too technical for beginners.
+Kunal,CSE,Coding Bootcamp,Cultural,5,Yes,Clear explanations,Better examples,Helpful overall.
+Ananya,CSE,Coding Bootcamp,Guest Lecture,2,No,Nice presentation,More seating,Impressive!
+Ishaan,CSE,DataViz Talk,Workshop,1,No,Easy to follow,Better examples,Too technical for beginners.
+Raj,EEE,Robotics Seminar,Workshop,4,No,Nice presentation,Started late,Helpful overall.
+Tanya,EEE,DataViz Talk,Guest Lecture,5,Yes,Engaging session,Started late,Loved the vibe!
+Rohan,CSE,Robotics Seminar,Guest Lecture,2,No,Fun activities,Need better timing,Loved the vibe!
+Tanya,EEE,Coding Bootcamp,Cultural,1,No,Fun activities,More seating,Well organized and useful.
+Rohan,ME,DataViz Talk,Seminar,5,No,Great venue,Too long,Loved the vibe!
+Ishaan,ME,AI Workshop,Guest Lecture,4,Yes,Good team tasks,Poor audio,Too technical for beginners.
+Aarav,BT,Coding Bootcamp,Seminar,3,Yes,Clear explanations,Poor audio,Could be improved.
+Rohan,CE,Tech Fest,Seminar,4,Yes,Great venue,Started late,Impressive!
+Ishaan,ME,Tech Fest,Guest Lecture,4,Yes,Fun activities,Poor audio,Helpful overall.
+Diya,ME,AI Workshop,Cultural,3,No,Good speaker,Need better timing,Well organized and useful.
+Raj,ME,Coding Bootcamp,Cultural,2,No,Good speaker,More seating,Too technical for beginners.
+Ananya,CSE,DataViz Talk,Guest Lecture,4,No,Good team tasks,Poor audio,Too technical for beginners.
+Raj,ECE,Tech Fest,Cultural,3,Yes,Fun activities,Too long,Really enjoyed the session!
+Diya,ECE,Tech Fest,Cultural,5,Yes,Fun activities,Add Q&A,Impressive!
+Rohan,BT,DataViz Talk,Workshop,5,Yes,Good team tasks,Technical issues,Too technical for beginners.
+Sneha,ME,Robotics Seminar,Workshop,2,Yes,Easy to follow,More breaks,Average session.
+Tanya,BT,DataViz Talk,Seminar,5,Yes,Good team tasks,Add Q&A,Could be improved.
+Rohan,CE,AI Workshop,Workshop,5,Yes,Easy to follow,More seating,Really enjoyed the session!
+Aarav,CE,DataViz Talk,Seminar,1,No,Good speaker,Poor audio,Too technical for beginners.
+Ananya,CE,Tech Fest,Workshop,1,No,Good speaker,Technical issues,Loved the vibe!
+Tanya,ME,Coding Bootcamp,Cultural,2,No,Great venue,Add Q&A,Really enjoyed the session!
+Kunal,ECE,AI Workshop,Guest Lecture,2,Yes,Helpful content,Too long,Well organized and useful.
+Raj,BT,Robotics Seminar,Seminar,1,Yes,Very interactive and hands-on,Clarity issues,Really enjoyed the session!
+Tanya,BT,AI Workshop,Cultural,5,Yes,Good team tasks,More seating,Average session.
+Aarav,BT,Robotics Seminar,Workshop,4,Yes,Good speaker,Too long,Average session.
+Meera,EEE,Coding Bootcamp,Workshop,4,Yes,Helpful content,Started late,Helpful overall.
+Raj,ECE,Tech Fest,Guest Lecture,5,No,Clear explanations,More breaks,Impressive!
+Ishaan,CE,Coding Bootcamp,Workshop,1,No,Very interactive and hands-on,Poor audio,Would attend again!
+Meera,ME,AI Workshop,Guest Lecture,4,Yes,Clear explanations,Technical issues,Loved the vibe!
+Kunal,BT,Coding Bootcamp,Cultural,2,Yes,Nice presentation,Need better timing,Loved the vibe!
+Raj,ECE,Coding Bootcamp,Cultural,4,No,Good speaker,More seating,Would attend again!
+Sneha,CSE,DataViz Talk,Guest Lecture,4,Yes,Helpful content,Started late,Impressive!
+Tanya,BT,AI Workshop,Seminar,3,Yes,Great venue,Better examples,Needs better management.
+Diya,ME,Coding Bootcamp,Workshop,5,No,Helpful content,More breaks,Impressive!
+Diya,ME,Tech Fest,Guest Lecture,3,Yes,Fun activities,Poor audio,Average session.
+Ishaan,EEE,Coding Bootcamp,Workshop,5,Yes,Helpful content,Add Q&A,Impressive!
+Rohan,BT,Robotics Seminar,Guest Lecture,1,Yes,Great venue,Add Q&A,Would attend again!
+Ishaan,ME,AI Workshop,Cultural,2,Yes,Engaging session,More breaks,Too technical for beginners.
+Ishaan,BT,DataViz Talk,Workshop,4,Yes,Nice presentation,Too long,Could be improved.
+Diya,BT,Coding Bootcamp,Workshop,3,Yes,Nice presentation,Better examples,Would attend again!
+Meera,BT,Coding Bootcamp,Seminar,4,Yes,Fun activities,Better examples,Helpful overall.
+Diya,ME,Robotics Seminar,Guest Lecture,4,Yes,Helpful content,Poor audio,Average session.
+Ananya,ECE,Coding Bootcamp,Seminar,5,Yes,Great venue,More seating,Would attend again!
+Diya,CE,Tech Fest,Seminar,1,Yes,Very interactive and hands-on,More seating,Too technical for beginners.
+Ishaan,BT,AI Workshop,Seminar,3,Yes,Great venue,Too long,Too technical for beginners.
+Ishaan,EEE,Coding Bootcamp,Guest Lecture,5,No,Easy to follow,Technical issues,Helpful overall.
+Kunal,CE,DataViz Talk,Guest Lecture,1,No,Helpful content,Too long,Average session.
+Raj,CSE,Coding Bootcamp,Guest Lecture,1,Yes,Nice presentation,Started late,Could be improved.
+Meera,ME,AI Workshop,Cultural,5,No,Easy to follow,Poor audio,Really enjoyed the session!
+Diya,CE,Robotics Seminar,Cultural,4,Yes,Good team tasks,Technical issues,Would attend again!
+Ananya,ECE,AI Workshop,Seminar,1,Yes,Good speaker,Poor audio,Impressive!
+Aarav,CSE,Robotics Seminar,Guest Lecture,3,Yes,Helpful content,More seating,Too technical for beginners.
+Tanya,EEE,Tech Fest,Workshop,2,No,Fun activities,More breaks,Impressive!
+Ananya,CSE,Coding Bootcamp,Guest Lecture,4,Yes,Clear explanations,Started late,Impressive!
+Rohan,ME,AI Workshop,Workshop,1,Yes,Good speaker,Technical issues,Well organized and useful.
+Diya,ECE,AI Workshop,Seminar,5,No,Engaging session,Better examples,Well organized and useful.
+Rohan,ME,Robotics Seminar,Seminar,2,No,Fun activities,Clarity issues,Average session.
+Ananya,EEE,Robotics Seminar,Cultural,3,Yes,Easy to follow,Too long,Impressive!
+Kunal,ECE,DataViz Talk,Workshop,3,Yes,Fun activities,Need better timing,Needs better management.
+Tanya,ME,Tech Fest,Cultural,2,Yes,Very interactive and hands-on,Technical issues,Could be improved.
+Raj,ECE,Robotics Seminar,Guest Lecture,5,No,Good team tasks,Poor audio,Loved the vibe!
+Sneha,EEE,AI Workshop,Guest Lecture,5,No,Nice presentation,Started late,Really enjoyed the session!
+Meera,EEE,Coding Bootcamp,Workshop,4,Yes,Engaging session,Too long,Really enjoyed the session!
+Kunal,CSE,DataViz Talk,Workshop,3,Yes,Helpful content,Too long,Needs better management.
+Sneha,CSE,AI Workshop,Workshop,4,Yes,Very interactive and hands-on,Add Q&A,Would attend again!
+Sneha,EEE,Robotics Seminar,Guest Lecture,2,No,Good speaker,Started late,Average session.
+Ishaan,CE,Coding Bootcamp,Workshop,3,No,Engaging session,Better examples,Average session.
+Aarav,ECE,DataViz Talk,Workshop,1,Yes,Engaging session,More breaks,Would attend again!
+Meera,CE,DataViz Talk,Guest Lecture,4,Yes,Very interactive and hands-on,Clarity issues,Could be improved.
+Aarav,EEE,Robotics Seminar,Guest Lecture,4,Yes,Great venue,Need better timing,Impressive!
+Raj,ME,Robotics Seminar,Seminar,1,No,Helpful content,Better examples,Really enjoyed the session!
+Sneha,ECE,Coding Bootcamp,Workshop,5,No,Great venue,Technical issues,Could be improved.
+Diya,ECE,AI Workshop,Workshop,5,Yes,Good speaker,More breaks,Average session.
+Meera,CE,DataViz Talk,Workshop,5,Yes,Clear explanations,More seating,Loved the vibe!
+Ananya,BT,AI Workshop,Seminar,1,No,Helpful content,Too long,Needs better management.
+Diya,ME,Tech Fest,Cultural,2,Yes,Helpful content,More breaks,Helpful overall.
+Sneha,EEE,Robotics Seminar,Seminar,1,Yes,Helpful content,Technical issues,Needs better management.
+Ananya,BT,AI Workshop,Seminar,5,No,Nice presentation,Clarity issues,Well organized and useful.
+Kunal,EEE,Robotics Seminar,Cultural,5,No,Helpful content,More breaks,Too technical for beginners.
+Sneha,EEE,DataViz Talk,Guest Lecture,2,Yes,Clear explanations,Clarity issues,Well organized and useful.
+Ishaan,CE,Robotics Seminar,Guest Lecture,5,No,Engaging session,Technical issues,Needs better management.
+Tanya,ME,DataViz Talk,Workshop,4,Yes,Clear explanations,Technical issues,Could be improved.
+Raj,CE,Robotics Seminar,Workshop,4,No,Great venue,Technical issues,Helpful overall.
+Meera,CSE,Coding Bootcamp,Workshop,4,Yes,Very interactive and hands-on,Too long,Loved the vibe!
+Meera,CE,Coding Bootcamp,Workshop,5,Yes,Engaging session,Poor audio,Really enjoyed the session!
+Kunal,CSE,Coding Bootcamp,Cultural,1,Yes,Very interactive and hands-on,Need better timing,Needs better management.
+Raj,CE,Robotics Seminar,Cultural,1,Yes,Good speaker,Started late,Helpful overall.
+Tanya,EEE,Coding Bootcamp,Seminar,2,No,Helpful content,Clarity issues,Well organized and useful.
+Tanya,CE,AI Workshop,Seminar,2,No,Great venue,Poor audio,Helpful overall.
+Diya,CSE,Coding Bootcamp,Cultural,5,Yes,Great venue,Clarity issues,Would attend again!
+Rohan,ME,AI Workshop,Seminar,2,No,Good speaker,Clarity issues,Helpful overall.
+Rohan,BT,Tech Fest,Guest Lecture,4,No,Good speaker,Started late,Loved the vibe!
+Meera,CSE,Tech Fest,Workshop,5,Yes,Good team tasks,Need better timing,Needs better management.
+Ishaan,CE,Robotics Seminar,Workshop,3,Yes,Engaging session,Technical issues,Would attend again!
+Tanya,BT,Tech Fest,Guest Lecture,3,Yes,Nice presentation,Better examples,Needs better management.
+Ananya,ME,Coding Bootcamp,Workshop,5,No,Fun activities,Need better timing,Too technical for beginners.
+Ananya,CE,Coding Bootcamp,Guest Lecture,2,No,Good speaker,Poor audio,Would attend again!
+Diya,EEE,AI Workshop,Seminar,1,No,Very interactive and hands-on,More breaks,Needs better management.
+Sneha,ME,AI Workshop,Seminar,2,No,Engaging session,Poor audio,Really enjoyed the session!
+Ananya,CSE,AI Workshop,Seminar,1,Yes,Good speaker,Clarity issues,Well organized and useful.
+Diya,EEE,AI Workshop,Guest Lecture,1,Yes,Easy to follow,Need better timing,Loved the vibe!
+Kunal,CSE,Coding Bootcamp,Seminar,4,No,Helpful content,Clarity issues,Needs better management.
+Ishaan,CE,DataViz Talk,Seminar,3,Yes,Fun activities,Technical issues,Needs better management.
+Aarav,CE,Tech Fest,Guest Lecture,5,No,Easy to follow,More seating,Well organized and useful.
+Tanya,ME,AI Workshop,Cultural,5,Yes,Easy to follow,Need better timing,Really enjoyed the session!
+Diya,BT,Coding Bootcamp,Workshop,1,Yes,Fun activities,Started late,Really enjoyed the session!
+Ananya,ECE,Tech Fest,Workshop,2,No,Good speaker,Technical issues,Really enjoyed the session!
+Kunal,BT,Coding Bootcamp,Seminar,2,Yes,Good team tasks,Technical issues,Would attend again!
+Kunal,CSE,Robotics Seminar,Seminar,2,No,Great venue,Better examples,Really enjoyed the session!
+Sneha,ECE,AI Workshop,Workshop,4,No,Fun activities,Too long,Impressive!
+Meera,CSE,Coding Bootcamp,Seminar,4,No,Engaging session,More seating,Impressive!
+Ishaan,ECE,Coding Bootcamp,Workshop,3,No,Fun activities,Poor audio,Really enjoyed the session!
+Sneha,ECE,DataViz Talk,Workshop,1,Yes,Nice presentation,Too long,Needs better management.
+Tanya,CE,AI Workshop,Workshop,5,Yes,Good speaker,Technical issues,Would attend again!
+Diya,ME,AI Workshop,Cultural,1,No,Clear explanations,Poor audio,Average session.
+Ishaan,CE,DataViz Talk,Cultural,2,No,Clear explanations,Need better timing,Loved the vibe!
+Diya,CE,Robotics Seminar,Workshop,4,Yes,Helpful content,Started late,Really enjoyed the session!
+Diya,EEE,Tech Fest,Workshop,5,No,Engaging session,Started late,Too technical for beginners.
+Ananya,ME,AI Workshop,Cultural,5,No,Clear explanations,Too long,Could be improved.
+Ishaan,EEE,Tech Fest,Seminar,5,Yes,Good team tasks,Better examples,Needs better management.
+Sneha,ECE,Robotics Seminar,Workshop,5,Yes,Helpful content,More seating,Would attend again!
+Sneha,CE,Robotics Seminar,Workshop,3,No,Clear explanations,More seating,Could be improved.
+Ishaan,ECE,DataViz Talk,Workshop,1,Yes,Good team tasks,Add Q&A,Well organized and useful.
+Sneha,BT,Coding Bootcamp,Guest Lecture,3,Yes,Fun activities,More breaks,Impressive!
+Raj,BT,Robotics Seminar,Guest Lecture,1,Yes,Helpful content,More breaks,Impressive!
+Diya,ECE,Tech Fest,Seminar,1,No,Nice presentation,Poor audio,Well organized and useful.
+Ananya,CE,Robotics Seminar,Workshop,4,Yes,Great venue,Technical issues,Could be improved.
+Ananya,CSE,Coding Bootcamp,Cultural,4,Yes,Clear explanations,Clarity issues,Needs better management.
+Tanya,BT,Tech Fest,Workshop,5,No,Good team tasks,Poor audio,Well organized and useful.
+Sneha,ECE,Tech Fest,Guest Lecture,1,No,Great venue,Started late,Impressive!
+Rohan,BT,DataViz Talk,Guest Lecture,1,No,Good team tasks,Poor audio,Could be improved.
+Raj,ECE,Robotics Seminar,Seminar,2,No,Engaging session,Better examples,Average session.
+Kunal,ME,Coding Bootcamp,Workshop,3,No,Helpful content,More seating,Impressive!
+Aarav,EEE,AI Workshop,Guest Lecture,5,Yes,Nice presentation,Technical issues,Loved the vibe!
+Sneha,EEE,AI Workshop,Guest Lecture,1,Yes,Easy to follow,Too long,Would attend again!
+Rohan,CSE,AI Workshop,Guest Lecture,3,No,Fun activities,Poor audio,Could be improved.
+Kunal,EEE,Coding Bootcamp,Cultural,1,No,Very interactive and hands-on,Better examples,Average session.
+Ishaan,CSE,DataViz Talk,Cultural,5,Yes,Fun activities,More seating,Needs better management.
+Kunal,CE,Coding Bootcamp,Cultural,3,No,Engaging session,Better examples,Helpful overall.
+Aarav,CSE,DataViz Talk,Seminar,4,Yes,Easy to follow,Add Q&A,Needs better management.
+Ishaan,CSE,DataViz Talk,Workshop,2,No,Clear explanations,Too long,Would attend again!
+Ishaan,CSE,Coding Bootcamp,Workshop,2,Yes,Helpful content,Too long,Would attend again!
+Meera,CSE,AI Workshop,Cultural,2,Yes,Helpful content,Started late,Impressive!
+Raj,BT,Tech Fest,Workshop,2,No,Nice presentation,More breaks,Well organized and useful.
+Meera,EEE,Tech Fest,Cultural,1,Yes,Clear explanations,Too long,Well organized and useful.
+Meera,ME,DataViz Talk,Guest Lecture,4,Yes,Nice presentation,Clarity issues,Needs better management.
+Ishaan,ME,Tech Fest,Cultural,2,Yes,Engaging session,Better examples,Really enjoyed the session!
+Meera,ECE,Robotics Seminar,Seminar,4,No,Good speaker,Technical issues,Too technical for beginners.
+Ananya,CE,Tech Fest,Seminar,5,No,Very interactive and hands-on,Started late,Helpful overall.
+Kunal,ME,Coding Bootcamp,Cultural,4,Yes,Great venue,Better examples,Too technical for beginners.
+Sneha,CSE,DataViz Talk,Guest Lecture,2,Yes,Nice presentation,More seating,Average session.
+Meera,ME,Robotics Seminar,Seminar,4,Yes,Very interactive and hands-on,Better examples,Impressive!
+Kunal,CE,Tech Fest,Guest Lecture,5,Yes,Great venue,Technical issues,Could be improved.
+Rohan,ME,Tech Fest,Seminar,5,Yes,Clear explanations,More seating,Loved the vibe!
+Meera,ME,Tech Fest,Cultural,4,No,Great venue,Poor audio,Helpful overall.
+Sneha,CSE,DataViz Talk,Seminar,2,No,Very interactive and hands-on,Technical issues,Impressive!
+Kunal,EEE,Robotics Seminar,Workshop,1,No,Fun activities,Poor audio,Really enjoyed the session!
+Kunal,EEE,Tech Fest,Workshop,5,Yes,Helpful content,More breaks,Too technical for beginners.
+Rohan,CE,Coding Bootcamp,Cultural,5,No,Good team tasks,Poor audio,Well organized and useful.
+Sneha,ECE,Coding Bootcamp,Seminar,1,Yes,Helpful content,Poor audio,Helpful overall.
+Tanya,ECE,Tech Fest,Cultural,2,No,Good team tasks,Too long,Too technical for beginners.
+Rohan,BT,Tech Fest,Cultural,1,No,Nice presentation,Technical issues,Really enjoyed the session!
+Ananya,CE,Tech Fest,Seminar,1,Yes,Great venue,More breaks,Too technical for beginners.
+Raj,CE,Tech Fest,Seminar,3,Yes,Great venue,Poor audio,Well organized and useful.
+Rohan,EEE,Robotics Seminar,Seminar,3,No,Good speaker,Technical issues,Really enjoyed the session!
+Aarav,CE,Tech Fest,Workshop,2,No,Good team tasks,Too long,Well organized and useful.
+Kunal,CSE,Tech Fest,Seminar,2,Yes,Helpful content,Too long,Really enjoyed the session!
+Diya,EEE,Coding Bootcamp,Guest Lecture,2,Yes,Great venue,Better examples,Loved the vibe!
+Sneha,CSE,Tech Fest,Guest Lecture,3,No,Good speaker,More seating,Could be improved.
+Diya,ECE,AI Workshop,Guest Lecture,4,Yes,Easy to follow,Add Q&A,Needs better management.
+Rohan,CE,Tech Fest,Seminar,2,No,Engaging session,Add Q&A,Would attend again!
+Ananya,ME,DataViz Talk,Guest Lecture,2,Yes,Good team tasks,Started late,Needs better management.
+Ishaan,ME,DataViz Talk,Guest Lecture,2,Yes,Great venue,Need better timing,Too technical for beginners.
+Raj,ME,Coding Bootcamp,Cultural,4,No,Fun activities,Poor audio,Average session.
+Aarav,CE,Robotics Seminar,Workshop,2,Yes,Nice presentation,Technical issues,Helpful overall.
+Kunal,ECE,Robotics Seminar,Guest Lecture,5,No,Clear explanations,Technical issues,Helpful overall.
+Diya,ME,AI Workshop,Cultural,4,Yes,Helpful content,Started late,Too technical for beginners.
+Aarav,BT,AI Workshop,Guest Lecture,4,Yes,Great venue,Too long,Too technical for beginners.
+Raj,CSE,Robotics Seminar,Seminar,4,No,Easy to follow,Clarity issues,Too technical for beginners.
+Aarav,ECE,Robotics Seminar,Guest Lecture,3,Yes,Great venue,More seating,Impressive!
+Sneha,ME,Robotics Seminar,Workshop,5,Yes,Good team tasks,More seating,Average session.
+Raj,ME,DataViz Talk,Seminar,3,Yes,Good speaker,Clarity issues,Would attend again!
+Sneha,ECE,AI Workshop,Cultural,1,No,Clear explanations,More seating,Could be improved.
+Meera,BT,AI Workshop,Seminar,5,Yes,Nice presentation,Better examples,Loved the vibe!
+Diya,CSE,DataViz Talk,Guest Lecture,5,No,Good speaker,Too long,Needs better management.
+Raj,EEE,DataViz Talk,Seminar,4,No,Clear explanations,Add Q&A,Really enjoyed the session!
+Ananya,CSE,AI Workshop,Cultural,5,No,Engaging session,More breaks,Too technical for beginners.
+Sneha,ECE,Coding Bootcamp,Seminar,4,No,Helpful content,Too long,Average session.
+Meera,CSE,DataViz Talk,Guest Lecture,5,No,Great venue,Too long,Really enjoyed the session!
+Diya,ECE,Robotics Seminar,Guest Lecture,4,No,Engaging session,Better examples,Too technical for beginners.
+Raj,CE,AI Workshop,Cultural,2,Yes,Clear explanations,Better examples,Average session.
+Meera,EEE,Coding Bootcamp,Seminar,5,No,Great venue,Clarity issues,Impressive!
+Ananya,CSE,AI Workshop,Seminar,5,No,Clear explanations,Technical issues,Impressive!
+Sneha,CE,AI Workshop,Workshop,1,Yes,Fun activities,More seating,Too technical for beginners.
+Raj,BT,Robotics Seminar,Cultural,2,No,Helpful content,More seating,Average session.
+Kunal,CE,Robotics Seminar,Cultural,2,No,Fun activities,Need better timing,Needs better management.
+Diya,CSE,Robotics Seminar,Cultural,4,Yes,Nice presentation,More seating,Well organized and useful.
+Raj,CE,DataViz Talk,Cultural,2,Yes,Helpful content,Need better timing,Impressive!
+Tanya,CE,Coding Bootcamp,Guest Lecture,1,Yes,Very interactive and hands-on,Need better timing,Well organized and useful.
+Aarav,BT,Coding Bootcamp,Workshop,3,No,Good team tasks,Clarity issues,Impressive!
+Meera,CE,DataViz Talk,Seminar,3,Yes,Fun activities,Too long,Could be improved.
+Raj,ME,Tech Fest,Workshop,1,No,Clear explanations,Started late,Impressive!
+Sneha,ECE,Robotics Seminar,Guest Lecture,3,No,Easy to follow,Better examples,Too technical for beginners.
+Ishaan,ME,Tech Fest,Workshop,5,No,Engaging session,Add Q&A,Too technical for beginners.
+Tanya,BT,DataViz Talk,Cultural,2,No,Good team tasks,Better examples,Helpful overall.
+Sneha,ME,AI Workshop,Cultural,4,Yes,Easy to follow,Too long,Really enjoyed the session!
+Meera,CE,AI Workshop,Seminar,2,Yes,Nice presentation,Need better timing,Would attend again!
+Kunal,CSE,Tech Fest,Seminar,4,No,Clear explanations,Add Q&A,Needs better management.
+Meera,ME,AI Workshop,Guest Lecture,4,No,Fun activities,Poor audio,Loved the vibe!
+Ananya,BT,AI Workshop,Seminar,3,Yes,Very interactive and hands-on,More seating,Well organized and useful.
+Rohan,BT,AI Workshop,Workshop,4,No,Good team tasks,Better examples,Average session.
+Raj,CSE,Tech Fest,Workshop,2,Yes,Fun activities,Technical issues,Loved the vibe!
+Ishaan,ECE,Robotics Seminar,Cultural,1,Yes,Great venue,Too long,Needs better management.
+Sneha,CSE,Tech Fest,Guest Lecture,3,Yes,Very interactive and hands-on,Technical issues,Needs better management.
+Rohan,ME,Robotics Seminar,Cultural,2,No,Easy to follow,Better examples,Loved the vibe!
+Ishaan,ME,Coding Bootcamp,Cultural,2,Yes,Good team tasks,Need better timing,Well organized and useful.
+Diya,CSE,Tech Fest,Cultural,4,Yes,Great venue,Clarity issues,Would attend again!
+Diya,CSE,Robotics Seminar,Cultural,4,Yes,Clear explanations,Too long,Would attend again!
+Sneha,EEE,Robotics Seminar,Cultural,5,Yes,Good team tasks,Need better timing,Too technical for beginners.
+Sneha,ECE,Tech Fest,Seminar,2,No,Clear explanations,Better examples,Helpful overall.
+Ananya,CE,DataViz Talk,Guest Lecture,5,Yes,Engaging session,More seating,Could be improved.
+Ananya,EEE,AI Workshop,Workshop,3,Yes,Engaging session,Clarity issues,Helpful overall.
+Diya,EEE,Robotics Seminar,Cultural,5,Yes,Very interactive and hands-on,Technical issues,Too technical for beginners.
+Meera,ME,Coding Bootcamp,Seminar,2,No,Easy to follow,Poor audio,Really enjoyed the session!
+Ishaan,ECE,Tech Fest,Workshop,4,Yes,Fun activities,More breaks,Helpful overall.
+Raj,BT,DataViz Talk,Workshop,5,Yes,Very interactive and hands-on,Poor audio,Could be improved.
+Raj,ECE,DataViz Talk,Cultural,2,Yes,Clear explanations,Add Q&A,Would attend again!
+Kunal,EEE,DataViz Talk,Guest Lecture,2,Yes,Fun activities,Clarity issues,Needs better management.
+Tanya,ECE,Robotics Seminar,Seminar,3,Yes,Clear explanations,More breaks,Really enjoyed the session!
+Sneha,CE,Robotics Seminar,Workshop,1,Yes,Great venue,Better examples,Loved the vibe!
+Aarav,BT,Coding Bootcamp,Cultural,1,No,Good speaker,Need better timing,Average session.
+Meera,ECE,Coding Bootcamp,Cultural,2,Yes,Easy to follow,Started late,Really enjoyed the session!
+Diya,BT,Robotics Seminar,Seminar,3,No,Good speaker,More seating,Could be improved.
+Rohan,ECE,Robotics Seminar,Seminar,2,Yes,Fun activities,Need better timing,Really enjoyed the session!
+Ananya,ECE,AI Workshop,Guest Lecture,5,Yes,Great venue,More breaks,Loved the vibe!
+Raj,CSE,Coding Bootcamp,Cultural,2,No,Clear explanations,Better examples,Helpful overall.
+Ishaan,CSE,Tech Fest,Cultural,5,No,Very interactive and hands-on,Started late,Helpful overall.
+Sneha,BT,Robotics Seminar,Workshop,3,No,Good speaker,Better examples,Impressive!
+Meera,BT,AI Workshop,Guest Lecture,1,Yes,Good speaker,Add Q&A,Well organized and useful.
+Diya,CE,DataViz Talk,Workshop,1,Yes,Nice presentation,More seating,Really enjoyed the session!
+Diya,CE,DataViz Talk,Workshop,5,Yes,Engaging session,Better examples,Could be improved.
+Tanya,CSE,Tech Fest,Guest Lecture,5,Yes,Nice presentation,Add Q&A,Loved the vibe!
+Sneha,BT,DataViz Talk,Workshop,5,Yes,Good speaker,More seating,Loved the vibe!
+Ishaan,CSE,DataViz Talk,Seminar,4,Yes,Helpful content,More seating,Well organized and useful.
+Rohan,ME,DataViz Talk,Guest Lecture,1,No,Great venue,Technical issues,Could be improved.
+Meera,CSE,DataViz Talk,Workshop,2,Yes,Fun activities,More seating,Would attend again!
+Rohan,CSE,Tech Fest,Seminar,5,No,Clear explanations,Clarity issues,Could be improved.
+Kunal,CSE,AI Workshop,Cultural,3,Yes,Easy to follow,Better examples,Loved the vibe!
+Aarav,ECE,Tech Fest,Seminar,1,No,Nice presentation,Add Q&A,Helpful overall.
+Meera,BT,Robotics Seminar,Cultural,2,Yes,Good team tasks,Need better timing,Average session.
+Ananya,EEE,Coding Bootcamp,Cultural,4,Yes,Helpful content,Clarity issues,Helpful overall.
+Kunal,CE,Coding Bootcamp,Seminar,3,Yes,Easy to follow,Too long,Impressive!
+Rohan,BT,DataViz Talk,Guest Lecture,2,Yes,Clear explanations,Better examples,Needs better management.
+Kunal,BT,Tech Fest,Workshop,4,No,Good speaker,Poor audio,Needs better management.
+Sneha,CE,DataViz Talk,Workshop,4,No,Very interactive and hands-on,Started late,Could be improved.
+Sneha,CSE,Tech Fest,Guest Lecture,4,No,Good speaker,Add Q&A,Helpful overall.
+Raj,EEE,Robotics Seminar,Cultural,4,Yes,Nice presentation,Technical issues,Average session.
+Sneha,BT,Robotics Seminar,Seminar,1,Yes,Clear explanations,More seating,Really enjoyed the session!
+Tanya,BT,Robotics Seminar,Seminar,2,No,Good team tasks,Need better timing,Too technical for beginners.
+Tanya,ECE,Coding Bootcamp,Seminar,1,Yes,Good speaker,More breaks,Impressive!
+Ananya,BT,AI Workshop,Workshop,2,Yes,Helpful content,Better examples,Really enjoyed the session!
+Ishaan,EEE,Robotics Seminar,Guest Lecture,5,Yes,Engaging session,Better examples,Helpful overall.
+Diya,CSE,DataViz Talk,Guest Lecture,2,Yes,Great venue,More seating,Could be improved.
+Sneha,CE,Coding Bootcamp,Cultural,4,Yes,Good team tasks,Clarity issues,Could be improved.
+Sneha,BT,AI Workshop,Guest Lecture,4,No,Engaging session,Poor audio,Average session.
+Aarav,ECE,Robotics Seminar,Guest Lecture,2,Yes,Helpful content,Better examples,Would attend again!
+Sneha,ME,DataViz Talk,Workshop,4,Yes,Great venue,Clarity issues,Impressive!
+Tanya,ECE,AI Workshop,Seminar,4,No,Engaging session,Better examples,Helpful overall.
+Diya,BT,DataViz Talk,Seminar,2,No,Engaging session,Technical issues,Would attend again!
+Kunal,CSE,Coding Bootcamp,Seminar,1,No,Engaging session,More seating,Impressive!
+Diya,EEE,DataViz Talk,Workshop,1,No,Engaging session,Clarity issues,Needs better management.
+Ishaan,CE,DataViz Talk,Guest Lecture,1,No,Good speaker,Better examples,Could be improved.
+Raj,ECE,Coding Bootcamp,Cultural,1,No,Fun activities,Clarity issues,Loved the vibe!
+Sneha,EEE,AI Workshop,Guest Lecture,4,Yes,Fun activities,Too long,Well organized and useful.
+Rohan,BT,Tech Fest,Cultural,2,No,Easy to follow,Clarity issues,Impressive!
+Kunal,BT,Tech Fest,Workshop,2,No,Very interactive and hands-on,More breaks,Impressive!
+Rohan,ME,Robotics Seminar,Workshop,2,Yes,Engaging session,Technical issues,Impressive!
+Ishaan,EEE,AI Workshop,Guest Lecture,2,No,Good speaker,Need better timing,Impressive!
+Tanya,EEE,DataViz Talk,Cultural,3,No,Very interactive and hands-on,Better examples,Really enjoyed the session!
+Ananya,BT,Coding Bootcamp,Workshop,5,Yes,Very interactive and hands-on,Need better timing,Well organized and useful.
+Rohan,BT,Coding Bootcamp,Cultural,4,No,Nice presentation,More seating,Really enjoyed the session!
+Kunal,EEE,Coding Bootcamp,Workshop,2,No,Good team tasks,Add Q&A,Impressive!
+Meera,EEE,Coding Bootcamp,Seminar,4,Yes,Nice presentation,Need better timing,Too technical for beginners.
+Ananya,CSE,Robotics Seminar,Workshop,3,Yes,Easy to follow,Too long,Impressive!
+Meera,EEE,Robotics Seminar,Workshop,4,Yes,Helpful content,More seating,Could be improved.
+Rohan,ME,Coding Bootcamp,Workshop,4,No,Clear explanations,Too long,Would attend again!
+Rohan,ECE,Coding Bootcamp,Seminar,1,No,Nice presentation,Poor audio,Loved the vibe!
+Kunal,ECE,AI Workshop,Guest Lecture,4,No,Very interactive and hands-on,Poor audio,Well organized and useful.
+Diya,CSE,Robotics Seminar,Guest Lecture,1,Yes,Great venue,Clarity issues,Well organized and useful.
+Diya,EEE,AI Workshop,Seminar,2,No,Good speaker,Clarity issues,Could be improved.
+Meera,CE,Tech Fest,Guest Lecture,4,No,Helpful content,Poor audio,Really enjoyed the session!
+Diya,ECE,AI Workshop,Workshop,3,Yes,Easy to follow,Poor audio,Too technical for beginners.
+Rohan,BT,Coding Bootcamp,Workshop,1,Yes,Very interactive and hands-on,Clarity issues,Average session.
+Ishaan,BT,Tech Fest,Cultural,3,No,Fun activities,Need better timing,Really enjoyed the session!
+Ishaan,CSE,DataViz Talk,Workshop,4,No,Great venue,More breaks,Well organized and useful.
+Raj,ECE,AI Workshop,Cultural,3,No,Nice presentation,Add Q&A,Well organized and useful.
+Tanya,CSE,Tech Fest,Cultural,4,Yes,Helpful content,Poor audio,Needs better management.
+Aarav,CE,AI Workshop,Cultural,5,Yes,Easy to follow,Need better timing,Could be improved.
+Tanya,ECE,Tech Fest,Cultural,3,Yes,Great venue,Technical issues,Helpful overall.
+Diya,CSE,Robotics Seminar,Guest Lecture,2,No,Engaging session,Better examples,Loved the vibe!
+Rohan,EEE,AI Workshop,Cultural,2,Yes,Good speaker,More breaks,Needs better management.
+Tanya,ECE,Coding Bootcamp,Seminar,3,No,Engaging session,Started late,Needs better management.
+Ishaan,CE,Coding Bootcamp,Seminar,4,Yes,Very interactive and hands-on,Too long,Well organized and useful.
+Diya,EEE,DataViz Talk,Workshop,2,No,Fun activities,More breaks,Impressive!
+Aarav,CE,AI Workshop,Cultural,4,Yes,Helpful content,More breaks,Loved the vibe!
+Ishaan,BT,AI Workshop,Guest Lecture,4,Yes,Clear explanations,Clarity issues,Too technical for beginners.
+Aarav,BT,Robotics Seminar,Workshop,1,Yes,Very interactive and hands-on,Clarity issues,Loved the vibe!
+Tanya,EEE,DataViz Talk,Cultural,2,No,Clear explanations,Started late,Needs better management.
+Aarav,BT,Tech Fest,Seminar,3,Yes,Great venue,Poor audio,Impressive!
+Aarav,BT,AI Workshop,Guest Lecture,4,No,Good speaker,Need better timing,Loved the vibe!
+Aarav,ECE,Tech Fest,Guest Lecture,1,No,Engaging session,Better examples,Too technical for beginners.
+Meera,CE,Coding Bootcamp,Workshop,2,Yes,Clear explanations,Technical issues,Impressive!
+Raj,EEE,Coding Bootcamp,Seminar,4,No,Good team tasks,Need better timing,Helpful overall.
+Meera,ME,DataViz Talk,Workshop,2,No,Very interactive and hands-on,Technical issues,Needs better management.
+Ananya,BT,Robotics Seminar,Cultural,1,Yes,Fun activities,Too long,Needs better management.
+Raj,EEE,Coding Bootcamp,Cultural,4,Yes,Easy to follow,More breaks,Average session.
+Ishaan,EEE,Coding Bootcamp,Cultural,4,Yes,Good speaker,Too long,Well organized and useful.
+Sneha,EEE,Robotics Seminar,Workshop,3,No,Fun activities,Add Q&A,Helpful overall.
+Meera,CSE,AI Workshop,Workshop,5,No,Great venue,More seating,Impressive!
+Aarav,ME,DataViz Talk,Workshop,1,Yes,Very interactive and hands-on,Started late,Impressive!
+Sneha,EEE,Coding Bootcamp,Workshop,1,No,Good speaker,Too long,Loved the vibe!
+Meera,ME,Robotics Seminar,Cultural,2,Yes,Nice presentation,Clarity issues,Average session.
+Sneha,BT,Coding Bootcamp,Seminar,1,Yes,Fun activities,Poor audio,Would attend again!
+Tanya,ECE,AI Workshop,Workshop,4,Yes,Fun activities,Add Q&A,Really enjoyed the session!
+Tanya,ECE,Tech Fest,Seminar,1,No,Good team tasks,Poor audio,Could be improved.
+Kunal,CE,Robotics Seminar,Guest Lecture,4,Yes,Easy to follow,Clarity issues,Loved the vibe!
+Raj,ME,Coding Bootcamp,Workshop,5,Yes,Very interactive and hands-on,Need better timing,Needs better management.
+Meera,ME,Coding Bootcamp,Workshop,1,Yes,Good team tasks,Need better timing,Impressive!
+Kunal,ECE,Tech Fest,Workshop,5,Yes,Fun activities,Poor audio,Really enjoyed the session!
+Raj,CSE,Coding Bootcamp,Cultural,2,Yes,Very interactive and hands-on,Started late,Really enjoyed the session!
+Raj,ECE,DataViz Talk,Guest Lecture,5,No,Very interactive and hands-on,More breaks,Impressive!
+Aarav,EEE,Robotics Seminar,Seminar,4,No,Fun activities,Poor audio,Well organized and useful.
+Aarav,ECE,Tech Fest,Workshop,5,No,Easy to follow,Poor audio,Needs better management.
+Ishaan,ME,Robotics Seminar,Guest Lecture,3,No,Good speaker,Too long,Really enjoyed the session!
+Kunal,CSE,Coding Bootcamp,Seminar,2,No,Engaging session,Too long,Impressive!
+Ananya,ECE,Tech Fest,Cultural,5,Yes,Fun activities,Started late,Needs better management.
+Kunal,ME,AI Workshop,Seminar,5,No,Engaging session,Poor audio,Loved the vibe!
+Diya,BT,Tech Fest,Cultural,1,No,Engaging session,More breaks,Average session.
+Meera,ECE,Tech Fest,Seminar,2,No,Great venue,More seating,Really enjoyed the session!
+Diya,EEE,DataViz Talk,Seminar,5,Yes,Clear explanations,More breaks,Helpful overall.
+Ishaan,BT,DataViz Talk,Seminar,5,No,Helpful content,More seating,Too technical for beginners.
+Meera,CE,Robotics Seminar,Guest Lecture,1,Yes,Great venue,More seating,Impressive!
+Raj,ECE,DataViz Talk,Guest Lecture,4,No,Engaging session,Better examples,Impressive!
+Sneha,BT,Robotics Seminar,Guest Lecture,1,Yes,Helpful content,More seating,Too technical for beginners.
+Sneha,ME,Robotics Seminar,Cultural,1,Yes,Good speaker,Clarity issues,Could be improved.
+Raj,CSE,AI Workshop,Seminar,1,Yes,Good team tasks,Clarity issues,Needs better management.
+Meera,ME,Robotics Seminar,Seminar,3,No,Fun activities,Need better timing,Average session.
+Ishaan,ECE,AI Workshop,Cultural,4,Yes,Helpful content,Need better timing,Average session.
+Tanya,CSE,Tech Fest,Seminar,3,Yes,Clear explanations,Technical issues,Well organized and useful.
+Sneha,BT,Coding Bootcamp,Workshop,5,Yes,Great venue,Technical issues,Could be improved.
+Sneha,EEE,Tech Fest,Seminar,5,Yes,Good speaker,Started late,Really enjoyed the session!
+Ananya,EEE,Coding Bootcamp,Cultural,3,No,Easy to follow,Technical issues,Too technical for beginners.
+Diya,ECE,Coding Bootcamp,Seminar,5,Yes,Nice presentation,Need better timing,Well organized and useful.
+Ananya,ME,Robotics Seminar,Guest Lecture,2,No,Very interactive and hands-on,More breaks,Really enjoyed the session!
+Rohan,CE,AI Workshop,Workshop,3,No,Easy to follow,Better examples,Impressive!
+Meera,BT,Coding Bootcamp,Cultural,1,No,Nice presentation,Add Q&A,Average session.
+Diya,BT,Coding Bootcamp,Guest Lecture,1,No,Easy to follow,Clarity issues,Impressive!
+Sneha,BT,DataViz Talk,Workshop,5,Yes,Clear explanations,Too long,Would attend again!
+Diya,ECE,Tech Fest,Seminar,1,No,Easy to follow,Poor audio,Really enjoyed the session!
+Tanya,CSE,Robotics Seminar,Guest Lecture,3,No,Engaging session,Poor audio,Well organized and useful.
+Rohan,EEE,Robotics Seminar,Guest Lecture,4,No,Fun activities,Better examples,Well organized and useful.
+Aarav,BT,Coding Bootcamp,Seminar,5,No,Nice presentation,Started late,Helpful overall.
+Sneha,EEE,DataViz Talk,Seminar,5,No,Good team tasks,Better examples,Needs better management.
+Diya,BT,Coding Bootcamp,Cultural,5,No,Great venue,Poor audio,Well organized and useful.
+Sneha,BT,AI Workshop,Seminar,2,Yes,Good team tasks,Poor audio,Loved the vibe!
+Kunal,ECE,DataViz Talk,Seminar,1,No,Easy to follow,Started late,Helpful overall.
+Ananya,ME,Coding Bootcamp,Cultural,3,No,Good speaker,Need better timing,Helpful overall.
+Aarav,BT,Tech Fest,Workshop,2,No,Good speaker,Technical issues,Well organized and useful.
+Raj,EEE,Robotics Seminar,Cultural,2,Yes,Engaging session,Better examples,Could be improved.
+Ishaan,EEE,Coding Bootcamp,Cultural,4,Yes,Engaging session,Need better timing,Needs better management.
+Ishaan,BT,Tech Fest,Seminar,2,No,Clear explanations,Better examples,Well organized and useful.
+Meera,ME,Robotics Seminar,Seminar,4,Yes,Clear explanations,More breaks,Impressive!
+Meera,BT,Tech Fest,Workshop,1,Yes,Easy to follow,Poor audio,Would attend again!
+Diya,CE,Tech Fest,Seminar,2,Yes,Clear explanations,Started late,Really enjoyed the session!
+Tanya,CE,Robotics Seminar,Workshop,4,No,Fun activities,Started late,Impressive!
+Tanya,ECE,AI Workshop,Seminar,5,Yes,Good speaker,Poor audio,Average session.
+Kunal,CSE,Coding Bootcamp,Guest Lecture,2,Yes,Engaging session,More breaks,Impressive!
+Meera,ME,DataViz Talk,Seminar,5,Yes,Very interactive and hands-on,Technical issues,Loved the vibe!
+Rohan,ECE,Coding Bootcamp,Guest Lecture,4,Yes,Good speaker,Add Q&A,Loved the vibe!
+Tanya,ECE,AI Workshop,Seminar,4,Yes,Very interactive and hands-on,Started late,Impressive!
+Kunal,EEE,AI Workshop,Cultural,3,No,Engaging session,Too long,Needs better management.
+Diya,CSE,Tech Fest,Cultural,4,No,Engaging session,More seating,Really enjoyed the session!
+Rohan,CE,AI Workshop,Guest Lecture,3,No,Fun activities,Technical issues,Really enjoyed the session!
+Sneha,ECE,Coding Bootcamp,Cultural,2,No,Fun activities,Clarity issues,Average session.
+Sneha,ECE,DataViz Talk,Guest Lecture,5,Yes,Clear explanations,More breaks,Impressive!
+Aarav,ME,AI Workshop,Workshop,5,No,Engaging session,Started late,Well organized and useful.
+Tanya,BT,Robotics Seminar,Cultural,2,No,Easy to follow,Started late,Really enjoyed the session!
+Ishaan,EEE,Robotics Seminar,Seminar,5,No,Great venue,More breaks,Well organized and useful.
+Meera,CSE,AI Workshop,Guest Lecture,2,No,Very interactive and hands-on,Too long,Impressive!
+Ananya,CSE,Robotics Seminar,Cultural,1,Yes,Good team tasks,Technical issues,Well organized and useful.
+Meera,ME,AI Workshop,Cultural,1,Yes,Fun activities,Need better timing,Needs better management.
+Meera,CE,AI Workshop,Guest Lecture,2,Yes,Very interactive and hands-on,Too long,Too technical for beginners.
